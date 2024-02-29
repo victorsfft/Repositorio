@@ -1,0 +1,5 @@
+public class idiomas2{
+	public class void main(String[] args){
+		System.out.println("P");
+	}
+}
